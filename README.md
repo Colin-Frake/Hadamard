@@ -1,1 +1,3 @@
-# Hadamard
+Hadamard matrix. Write a recursive program Hadamard_YI.java that takes a command-line argument n and plots an N-by-N Hadamard pattern where N = 2n. Do not use an array. A 1-by-1 Hadamard pattern is a single black square. In general, a 2N-by-2N Hadamard pattern is obtained by aligning 4 copies of the N-by-N pattern in the form of a 2-by-2 grid and then inverting the colors of all the squares in the lower right N-by-N copy. The N-by-N Hadamard H(N) matrix is a boolean matrix with the remarkable property that any two rows differ in exactly N/2 bits. This property makes it useful for designing error-correcting codes. Here are the first few Hadamard matrices.
+
+Hadamard matrix.png
